@@ -1,0 +1,13 @@
+================================================================================
+ ___             _           
+| _ \___ __ _ __| |_ __  ___ 
+|   / -_) _` / _` | '  \/ -_)
+|_|_\___\__,_\__,_|_|_|_\___|
+                             
+================================================================================
+
+muhd is a powerful and flexible hex dump utilities which can be used to output
+hexidecimal dumps in a variety of formats. Supports switches for ASCII dumping
+and header output along with the ability to send dumps to a text file.
+
+                             
